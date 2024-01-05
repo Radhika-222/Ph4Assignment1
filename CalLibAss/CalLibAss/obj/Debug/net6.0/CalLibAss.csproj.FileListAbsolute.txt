@@ -1,0 +1,12 @@
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\bin\Debug\net6.0\CalLibAss.deps.json
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\bin\Debug\net6.0\CalLibAss.dll
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\bin\Debug\net6.0\CalLibAss.pdb
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.AssemblyInfoInputs.cache
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.AssemblyInfo.cs
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.sourcelink.json
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.dll
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\refint\CalLibAss.dll
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\CalLibAss.pdb
+E:\Mphasis Phase4\Day1\Assignment\CalLibAss\CalLibAss\obj\Debug\net6.0\ref\CalLibAss.dll
